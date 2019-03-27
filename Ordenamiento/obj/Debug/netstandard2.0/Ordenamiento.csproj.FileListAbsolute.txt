@@ -1,0 +1,9 @@
+C:\Users\hrolo\Desktop\tdd-Hectorolon\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.deps.json
+C:\Users\hrolo\Desktop\tdd-Hectorolon\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.dll
+C:\Users\hrolo\Desktop\tdd-Hectorolon\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.pdb
+C:\Users\hrolo\Desktop\tdd-Hectorolon\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.csprojAssemblyReference.cache
+C:\Users\hrolo\Desktop\tdd-Hectorolon\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\hrolo\Desktop\tdd-Hectorolon\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.AssemblyInfoInputs.cache
+C:\Users\hrolo\Desktop\tdd-Hectorolon\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.AssemblyInfo.cs
+C:\Users\hrolo\Desktop\tdd-Hectorolon\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.dll
+C:\Users\hrolo\Desktop\tdd-Hectorolon\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.pdb
