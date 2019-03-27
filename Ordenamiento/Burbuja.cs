@@ -6,16 +6,20 @@ namespace Ordenamiento
     {
         public void Ordenar(int[] arr) 
         {
-            for (int i = 0; i < arr.Length - 1; i++) 
+            //{2, 3, 4, 5, 1}
+            //{5, 4, 3, 2, 1}
+            for (int i = 1; i < arr.Length; i++) 
             {
-				if (arr[i] > arr[i + 1]) 
+                for (int j = 0; j < arr.Length - i; j++)
                 {
-					int aux = arr[i];
-					arr[i] = arr[i + 1];
-					arr[i + 1] = aux;
-				}
+				    if (arr[j] > arr[j + 1]) 
+                    {
+					    int aux = arr[j];
+					    arr[j] = arr[j + 1];
+					    arr[j + 1] = aux;
+				    }
+                }
             }
-
         }
     }
 }
